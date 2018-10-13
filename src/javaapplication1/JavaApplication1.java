@@ -19,7 +19,9 @@ public class JavaApplication1 {
      */
    public static void main(String[] args) {
         // TODO code application logic here
-        Random r=new Random();
+       
+        int y;
+        int z;
         int x;
         int flag=0;
         
